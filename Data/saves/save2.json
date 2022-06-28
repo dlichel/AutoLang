@@ -1,0 +1,17 @@
+{
+    "level": 1.0,
+    "hsk": 1,
+    "options": {
+        "tizi": "FAN",
+        "pinyin": true,
+        "zhuyin": false,
+        "loading_screen": "loading2.gif",
+        "font_size": 30
+    },
+    "sentences_practiced": [],
+    "hsk_adherence": "STRICT",
+    "common_adherence": "NONE",
+    "random": false,
+    "sentences": 20,
+    "num_practiced": 0
+}
